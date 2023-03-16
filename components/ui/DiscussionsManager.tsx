@@ -12,7 +12,7 @@ export default function DiscussionsWrapper(
     <section
       className={`my-8` + ' ' + htmlAttributes?.className}
       {...htmlAttributes}>
-      <table className="discussion-element-table w-full mx-auto max-xl:w-[920px] max-lg:w-[740px] max-md:w-[600px] max-sm:w-[420px]">
+      <table className="discussion-element-table w-full mx-auto max-xl:w-[920px] max-lg:w-[740px] max-md:w-[600px] max-sm:w-[360px]">
         <thead className="discussion-element-table-header">
           <tr className="discussion-element-table-header-row">
             {['Topic', 'Replies', 'Views', 'Activity']?.map(
