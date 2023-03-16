@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-    max-width: 1050px;
-    @apply mx-auto;
+  max-width: 1050px;
+  @apply mx-auto;
 }
