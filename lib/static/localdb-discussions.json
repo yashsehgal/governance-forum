@@ -1,0 +1,272 @@
+[
+    {
+        "discussionTitle": "Community Governance Process",
+        "discussionCategory": "Governance-Meta",
+        "discussionAuthor": {
+            "authorUsername": "yashsehgal",
+            "authorFullName": {
+                "firstName": "Yash",
+                "lastName": "Sehgal"
+            }
+        },
+        "discussionDetails": {
+            "createdAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 24
+            },
+            "lastReplyAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 26
+            },
+            "replies": [
+                {
+                    "replyAuthor": {
+                        "authorUsername": "ironman",
+                        "authorFullName": {
+                            "firstName": "Tony",
+                            "lastName": "Stark"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "This is a really good feature to be added, really a helpful one."
+                    }
+                },
+                {
+                    "replyAuthor": {
+                        "authorUsername": "doctorstrange",
+                        "authorFullName": {
+                            "firstName": "Stephen",
+                            "lastName": "Strange"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "Super cool idea, Let's get started!"
+                    }
+                }
+            ],
+            "views": "30.3k",
+            "users": 25,
+            "likes": 332
+        }
+    },
+    {
+        "discussionTitle": "Community Governance Process",
+        "discussionCategory": "Governance-Meta",
+        "discussionAuthor": {
+            "authorUsername": "yashsehgal",
+            "authorFullName": {
+                "firstName": "Yash",
+                "lastName": "Sehgal"
+            }
+        },
+        "discussionDetails": {
+            "createdAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 24
+            },
+            "lastReplyAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 26
+            },
+            "replies": [
+                {
+                    "replyAuthor": {
+                        "authorUsername": "ironman",
+                        "authorFullName": {
+                            "firstName": "Tony",
+                            "lastName": "Stark"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "This is a really good feature to be added, really a helpful one."
+                    }
+                },
+                {
+                    "replyAuthor": {
+                        "authorUsername": "doctorstrange",
+                        "authorFullName": {
+                            "firstName": "Stephen",
+                            "lastName": "Strange"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "Super cool idea, Let's get started!"
+                    }
+                }
+            ],
+            "views": "30.3k",
+            "users": 25,
+            "likes": 332
+        }
+    },
+    {
+        "discussionTitle": "Community Governance Process",
+        "discussionCategory": "Governance-Meta",
+        "discussionAuthor": {
+            "authorUsername": "yashsehgal",
+            "authorFullName": {
+                "firstName": "Yash",
+                "lastName": "Sehgal"
+            }
+        },
+        "discussionDetails": {
+            "createdAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 24
+            },
+            "lastReplyAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 26
+            },
+            "replies": [
+                {
+                    "replyAuthor": {
+                        "authorUsername": "ironman",
+                        "authorFullName": {
+                            "firstName": "Tony",
+                            "lastName": "Stark"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "This is a really good feature to be added, really a helpful one."
+                    }
+                },
+                {
+                    "replyAuthor": {
+                        "authorUsername": "doctorstrange",
+                        "authorFullName": {
+                            "firstName": "Stephen",
+                            "lastName": "Strange"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "Super cool idea, Let's get started!"
+                    }
+                }
+            ],
+            "views": "30.3k",
+            "users": 25,
+            "likes": 332
+        }
+    },
+    {
+        "discussionTitle": "Community Governance Process",
+        "discussionCategory": "Governance-Meta",
+        "discussionAuthor": {
+            "authorUsername": "yashsehgal",
+            "authorFullName": {
+                "firstName": "Yash",
+                "lastName": "Sehgal"
+            }
+        },
+        "discussionDetails": {
+            "createdAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 24
+            },
+            "lastReplyAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 26
+            },
+            "replies": [
+                {
+                    "replyAuthor": {
+                        "authorUsername": "ironman",
+                        "authorFullName": {
+                            "firstName": "Tony",
+                            "lastName": "Stark"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "This is a really good feature to be added, really a helpful one."
+                    }
+                },
+                {
+                    "replyAuthor": {
+                        "authorUsername": "doctorstrange",
+                        "authorFullName": {
+                            "firstName": "Stephen",
+                            "lastName": "Strange"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "Super cool idea, Let's get started!"
+                    }
+                }
+            ],
+            "views": "30.3k",
+            "users": 25,
+            "likes": 332
+        }
+    },
+    {
+        "discussionTitle": "Community Governance Process",
+        "discussionCategory": "Governance-Meta",
+        "discussionAuthor": {
+            "authorUsername": "yashsehgal",
+            "authorFullName": {
+                "firstName": "Yash",
+                "lastName": "Sehgal"
+            }
+        },
+        "discussionDetails": {
+            "createdAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 24
+            },
+            "lastReplyAt": {
+                "month": "Feb",
+                "year": "23",
+                "date": 26
+            },
+            "replies": [
+                {
+                    "replyAuthor": {
+                        "authorUsername": "ironman",
+                        "authorFullName": {
+                            "firstName": "Tony",
+                            "lastName": "Stark"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "This is a really good feature to be added, really a helpful one."
+                    }
+                },
+                {
+                    "replyAuthor": {
+                        "authorUsername": "doctorstrange",
+                        "authorFullName": {
+                            "firstName": "Stephen",
+                            "lastName": "Strange"
+                        }
+                    },
+                    "replyContent": {
+                        "contentType": "Rich-Text",
+                        "contentHTML": "Super cool idea, Let's get started!"
+                    }
+                }
+            ],
+            "views": "30.3k",
+            "users": 25,
+            "likes": 332
+        }
+    }
+]
